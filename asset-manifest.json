@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jokesfetching/static/css/main.f737e219.chunk.css",
+    "main.js": "/jokesfetching/static/js/main.5f05835d.chunk.js",
+    "main.js.map": "/jokesfetching/static/js/main.5f05835d.chunk.js.map",
+    "runtime-main.js": "/jokesfetching/static/js/runtime-main.f09643cf.js",
+    "runtime-main.js.map": "/jokesfetching/static/js/runtime-main.f09643cf.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/jokesfetching/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.eb1a324b.chunk.js": "/jokesfetching/static/js/2.eb1a324b.chunk.js",
+    "static/js/2.eb1a324b.chunk.js.map": "/jokesfetching/static/js/2.eb1a324b.chunk.js.map",
+    "index.html": "/jokesfetching/index.html",
+    "precache-manifest.01212618c98dfb22a4edd73ada615d8f.js": "/jokesfetching/precache-manifest.01212618c98dfb22a4edd73ada615d8f.js",
+    "service-worker.js": "/jokesfetching/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/jokesfetching/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f737e219.chunk.css.map": "/jokesfetching/static/css/main.f737e219.chunk.css.map",
+    "static/js/2.eb1a324b.chunk.js.LICENSE.txt": "/jokesfetching/static/js/2.eb1a324b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09643cf.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.eb1a324b.chunk.js",
+    "static/css/main.f737e219.chunk.css",
+    "static/js/main.5f05835d.chunk.js"
+  ]
+}
